@@ -1,7 +1,7 @@
 # Trivitall
 
 This is a simple python script which gets a list of all docker swarm services and runs every container image found through
-Aquasecurity's [Trivy](https://github.com/aquasecurity/trivy) security scanner.
+Aquasecurity's excellent [Trivy](https://github.com/aquasecurity/trivy) security scanner.
 __Note__: The script needs access to the docker socket, so make sure to scan through the code to make sure you trust it.
 
 ## Usage
